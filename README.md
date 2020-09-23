@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## SquiggleCam
 
-You can use the [editor on GitHub](https://github.com/msurguy/SquiggleCam/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Web Based implementation of [SquiggleDraw algorithm](https://github.com/gwygonik/SquiggleDraw ), originally implemented by Gregg Wygonik.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The online version of this project takes a picture from your webcam and turns it into plotter-drawable, laser-engravable SVG file.
 
-### Markdown
+- Project by msurguy http://github.com/msurguy/SquiggleCam
+- Based upon SquiggleDraw https://github.com/gwygonik/SquiggleDraw
+- Modified by [gsyan](https://gsyan888.blogspot.com/)
+- Source http://github.com/gsyan888/SquiggleCam
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msurguy/SquiggleCam/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
